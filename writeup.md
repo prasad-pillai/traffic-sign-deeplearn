@@ -60,7 +60,7 @@ Here is an exploratory visualization of the data set. It is a random image map w
 
 Convertion to grayscale. I choose this after few rounds of experimentation. More accuracy was obtained on grayscale images when compared to color images. Grayscaling also reduces the size of the dataset to 1/3rd this making it easier and less time consuming to train.
     
-Here is an example of a traffic sign image before and after grayscaling.
+Here is an example of a traffic sign image after grayscaling.
 
 ![alt text][image2]
 
